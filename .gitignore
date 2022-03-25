@@ -1,0 +1,8 @@
+/.gradle/
+/.idea/
+/build/
+/accounts/build/
+/products/build/
+/reviews/build/
+/inventory/build/
+/apollo-gateway/node_modules/
