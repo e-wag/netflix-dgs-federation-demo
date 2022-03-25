@@ -7,10 +7,10 @@ Subgraphs used in this example are based on the Apollo Federation [documentation
 ## Basic Subgraph structure
 ```mermaid
 graph TD
-    A[Gateway] --> B(Products subgraph)
-    A[Gateway] --> C(Accounts subgraph)
-    A[Gateway] --> D(Reviews subgraph)
-    A[Gateway] --> E(Inventory subgraph)
+    A[Apollo Gateway] --> B(Products subgraph)
+    A[Apollo Gateway] --> C(Accounts subgraph)
+    A[Apollo Gateway] --> D(Reviews subgraph)
+    A[Apollo Gateway] --> E(Inventory subgraph)
 ```
 ### Docs
 
