@@ -1,9 +1,10 @@
 type Query {
-    me: User
+    topProducts(first: Int = 5): [Product]
 }
 
-type User @key(fields: "id") {
-    id: ID!
+type Product @key(fields: "upc") {
+    upc: String!
     name: String
-    username: String
+    price: Int
+    weight: Int
 }

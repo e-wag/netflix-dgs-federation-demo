@@ -3,6 +3,7 @@
 This repository is a Federation example built with [netflix-dgs-framework](https://netflix.github.io/dgs/). 
 Subgraphs used in this example are based on the Apollo Federation [documentation](https://www.apollographql.com/docs/federation/).
 
+Javascript based demo: [Federation demo](https://github.com/apollographql/federation-demo)
 
 ## Basic Subgraph structure
 ```mermaid

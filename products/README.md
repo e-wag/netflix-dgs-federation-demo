@@ -15,4 +15,5 @@ type Product @key(fields: "upc") {
 ```
 
 ## Useful links
-- [H2 console](http://localhost:8082/h2-console)
+- [Netflix Dgs](https://netflix.github.io/dgs/)
+- [Graphql schema](https://www.apollographql.com/docs/apollo-server/schema/schema/)

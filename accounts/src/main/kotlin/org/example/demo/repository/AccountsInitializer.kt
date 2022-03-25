@@ -1,4 +1,4 @@
-package org.example.demo
+package org.example.demo.repository
 
 import org.springframework.boot.CommandLineRunner
 import org.springframework.stereotype.Component

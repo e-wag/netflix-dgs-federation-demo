@@ -1,3 +1,7 @@
+type Query{
+    reviews: [Review]
+}
+
 type Review @key(fields: "id") {
     id: ID!
     body: String

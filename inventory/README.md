@@ -13,4 +13,4 @@ type Product @key(fields: "upc") @extends {
 ```
 
 ## Useful links
-- [H2 console](http://localhost:8084/h2-console)
+- [Netflix Dgs](https://netflix.github.io/dgs/)
